@@ -1,0 +1,20 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.connectBTN {
+  background: url('https://doc-0s-14-docs.googleusercontent.com/docs/securesc/4ve0j5mf47mq1k6pa2vnsk84dp93qr26/blv79nb1rq59gkblc3sdssonpvjm8l6f/1655605800000/02893299527100574807/02893299527100574807/1MABhtdlDtKu-pc4TgZzDA39nN0KRR65V?ax=ACxEAsZ8QDmoeiqaXfA6cdyloj9e7CIxN7nWLP3ilTYN-mSEUApo12pxZ9hRK0N6luZEVomu3p2N_xvies7g7j3XPbPBa88VAZ8qcU2QtffpKrojrmCY9zB4kvukULwX9n_0URh3F9NlkrBAg--r_npaWvurE6j4T3qzgfG2BnkrX1i71lL88TCVsz77Y-GOAFfUWjFZIyPoDsAK06FJrZNnwiA5-XTuXOGHNWZ79GnLvGhDMpFT8xpOlCLj-aDAu3B6Ek9SHdD-rA8pJdStA5laW8AtWeod58mlnlxS5oSAVrAtSX9mismXOHVUnt0Xb45C4EV04ObFCeqBTH2BZg5ExsRewY6lteCLIitTjKIORiVEizqOjsA4Zuu7m34xs2PENxyIpjDEaEQdyY5feZ-dxd_9_ti3mB9vzS9vSnbIJ9EJBFFd1libHhKMB7pOT1_wk2ws3XR4Mr590aXrvoJp2ePswpc2lTsNIYdsP7YYqLrsvPNeHhRRTLo3QA9P8EU4B-v0oe6m7Ckwq0-H67MlHqpK7YQtMg5mmGtONHQawY4tNUDP6aaWLtcTT5VxNG2g24iUpciVr1zaHTAZjsSBaKSvxO17ufoljzfq3-tFwDx21zT0vh62ENeYnfRjS85TIEwVqV1M95scqsg2B0zWxvvmaABH8W1dXhGMQXbx4zg3PELfy5CGi-t2MlTqYCZTajeyabjiwN5mZbU0GO7f1x0fkOAL3-78Bb-rNb6ttdIb1dMnl4cHjikINBnpxPuz3U_xdHyJPyK6CaWqGpOBY3dCRDl2_aMQNeiAIusCtoi643ialWIulQLI9Q_EEY1IashpGnuZrizvY_qCi8DF6ubX-iEl6_U&authuser=0&nonce=oins90rijs8ra&user=02893299527100574807&hash=dijtg9afhi7tru3q6sqnd1abppbh0d1e') no-repeat;
+}
